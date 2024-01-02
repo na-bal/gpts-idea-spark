@@ -1,2 +1,4 @@
 # Ignore todo file
 todo.md
+/src/archive
+.gitignore
