@@ -1,16 +1,3 @@
-
-# EN
-
-## Link to Chat
-
-## My Performance Review
-
-## Prompt: 
-
-## Response:
-
-
-
 # RU. Бизнес-тематика. Широкий запрос
 
 ## Ссылка на диалог

@@ -50,7 +50,11 @@ The company has been on the market for 20 years.
 Ответ дай на русском. 
 
 ### Ответ:
-
+<details>
+  <summary> Развернуть ответ </summary>
+  
+    Содержание ответ... 
+</details>
 
 
 
